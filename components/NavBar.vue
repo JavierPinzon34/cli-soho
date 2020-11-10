@@ -60,6 +60,7 @@ export default {
 </script>
 <style lang="scss">
   .mi-navbar {
+    font-family: 'Graphik', sans-serif;
     position: fixed;
     z-index: 100;
     width: 100%;

@@ -24,6 +24,7 @@
 </template>
 <style lang="scss">
   .contenedor-cards {
+    font-family: 'Graphik', sans-serif;
     .card-1 {
       background-color: #273138;
       text-align: center;

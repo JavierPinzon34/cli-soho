@@ -22,6 +22,7 @@
 </template>
 <style lang="scss">
   .contenido-footer {
+    font-family: 'Graphik', sans-serif;
     background-color: black;
     padding: 30px;
     .contenido-copy {

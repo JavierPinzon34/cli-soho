@@ -44,6 +44,7 @@ export default {
 </script>
 <style lang="scss">
   .contenido-titulo {
+    font-family: 'Graphik', sans-serif;
     background-color: #273138;
     text-align: center;
     padding: 40px;

@@ -15,6 +15,7 @@
 </template>
 <style lang="scss">
   .banner-content {
+    font-family: 'Graphik', sans-serif;
     background-color: black;
     text-align: center;
     padding: 20px 45px 20px 45px;

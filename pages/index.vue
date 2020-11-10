@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid">
+  <div class="container-fluid contenedor-index">
     <NavBar/>
     <Inicio/>
     <Banner/>
@@ -17,8 +17,9 @@ export default {}
 </script>
 
 <style lang="scss">
-  .container-fluid {
+  .contenedor-index {
     padding: unset;
+    height: 100vh;
     .icono-plus {
       text-align: center;
       width: 100%;

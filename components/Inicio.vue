@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid">
+  <div class="container-fluid home-page">
     <section id="inicio" >
       <div class="contenido-inicio">
         <div class="texto">
@@ -18,7 +18,8 @@
   </div>
 </template>
 <style lang="scss">
-  .container-fluid {
+  .home-page {
+    font-family: 'Graphik', sans-serif;
     height: 100vh;
     background: url('../assets/img/space.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;

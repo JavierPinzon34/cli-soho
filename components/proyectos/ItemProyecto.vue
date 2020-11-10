@@ -53,6 +53,7 @@ export default {
 </script>
 <style lang="scss">
   .item-proyecto {
+    font-family: 'Graphik', sans-serif;
     .bg-proyecto {
       width: 100%;
       height: 100%;
